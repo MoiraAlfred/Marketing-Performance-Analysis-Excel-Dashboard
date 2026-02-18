@@ -3,6 +3,12 @@ Excel Based Marketing Analytics Project
 
 ---
 
+## Dashboard Preview
+
+![Marketing Dashboard](Screenshot 2026-02-18 232801)
+
+---
+
 # 1. Project Overview
 
 This project is a structured Marketing Performance Dashboard built in Microsoft Excel to analyze campaign effectiveness through interactive KPI tracking and weekly trend analysis. The dashboard consolidates marketing performance indicators into a single analytical view, allowing users to evaluate reach, engagement, efficiency and profitability.

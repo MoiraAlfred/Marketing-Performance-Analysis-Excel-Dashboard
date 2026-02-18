@@ -5,7 +5,7 @@ Excel Based Marketing Analytics Project
 
 ## Dashboard Preview
 
-![Marketing Dashboard](Screenshot 2026-02-18 232801)
+![Marketing Dashboard](marketing_performance_analysis_dashboard.png)
 
 ---
 

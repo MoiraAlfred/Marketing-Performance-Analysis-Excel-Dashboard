@@ -26,7 +26,7 @@ The dashboard is organized around five core Key Performance Indicators; Total Im
 
 Beyond the KPI summary, the dashboard answers a series of dimensional performance questions through dedicated visualizations: ROI by geographic location, channel effectiveness by both impressions and ROI, campaign type performance by both impressions and ROI, and target audience reach via a donut chart with a dynamically calculated center label.
 
-The primary objective of this project is to demonstrate how Excel's modern analytical stack — Power Query for data preparation, Power Pivot for relational data modeling, and DAX for calculated measures — can function as a complete marketing analytics platform capable of producing business-ready, enterprise-grade insights.
+The primary objective of this project is to demonstrate how Excel's modern analytical stack — Power Query for data preparation, Power Pivot for relational data modeling, and DAX for calculated measures can function as a complete marketing analytics platform capable of producing business-ready, enterprise-grade insights.
 
 ---
 

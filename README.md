@@ -1,7 +1,7 @@
 # Marketing Performance Analysis Dashboard  
 Excel Based Marketing Analytics Project
 
-![Marketing Dashboard](marketing_performance_analysis_dashboard.png)
+![Marketing Performance Analysis Dashboard](marketing_performance_analysis_dashboard.png)
 
 ## Table of Contents
 
